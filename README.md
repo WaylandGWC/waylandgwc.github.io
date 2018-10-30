@@ -4,7 +4,7 @@ Wayland Girls Who Code
  Wayland Girls Who Code 2018-2019
 -----------------------------
 
-[Reference doc for circuits and code](2018/waylandgwc-reference.pdf)
+[Reference notebook for circuits and code](2018/waylandgwc-reference.pdf)
 
 ### Meeting presentations
 - [Meeting 1 - October 16, 2018](2018/2018-10-16-wayland-gwc-meeting-1.pdf)
