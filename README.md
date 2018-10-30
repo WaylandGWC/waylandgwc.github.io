@@ -1,5 +1,5 @@
-# [waylandgwc.github.io](http://waylandgwc.github.io)
-Wayland Girls Who Code demo pages
+Wayland Girls Who Code
+----------------------
 
  Wayland Girls Who Code 2018-2019
 -----------------------------
