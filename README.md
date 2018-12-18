@@ -17,17 +17,17 @@ Wayland Girls Who Code
 - For PygameZero: put at the top of the file: `import pgzero`
 - For PygameZero: put at the end of the file: `pgzero.go()`
 
-PygameZero intro: https://pygame-zero.readthedocs.io/en/stable/introduction.html
+[PygameZero intro](https://pygame-zero.readthedocs.io/en/stable/introduction.html)
 
-PygameZero objects reference: https://pygame-zero.readthedocs.io/en/stable/builtins.html
+[PygameZero objects reference](https://pygame-zero.readthedocs.io/en/stable/builtins.html)
 
-PygameZero events reference: https://pygame-zero.readthedocs.io/en/stable/hooks.html
+[PygameZero events reference](https://pygame-zero.readthedocs.io/en/stable/hooks.html)
 
-PygameZero - coming from Scratch and making Flappy Bird: https://pygame-zero.readthedocs.io/en/stable/from-scratch.html
+[PygameZero - coming from Scratch and making Flappy Bird](https://pygame-zero.readthedocs.io/en/stable/from-scratch.html)
 
-Some other fun libraries like PygameZero: https://pygame-zero.readthedocs.io/en/stable/other-libs.html
+[Some other fun libraries like PygameZero](https://pygame-zero.readthedocs.io/en/stable/other-libs.html)
 
-Pygame reference for more complicated things: https://www.pygame.org/docs/ (but you have to watch out for how they work out with PygameZero!)
+[Pygame reference for more complicated things](https://www.pygame.org/docs/) (but you have to watch out for how they work out with PygameZero!)
 
 
 
