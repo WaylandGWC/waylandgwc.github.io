@@ -13,17 +13,21 @@ Wayland Girls Who Code
 - [Meeting 4 - November 6, 2018](https://docs.google.com/presentation/d/1-eCcyKPwVNzLJ8EP7jJBfsGQALvL8IKbwD0rOo9u-0k/edit?usp=sharing)
 - [Meeting 5 - November 13, 2018](https://docs.google.com/presentation/d/1-gQdGJeshuaev_W9DK2zarQsn5WEzUsCKT_M4yekjXI/edit?usp=sharing)
 
+### Meeting notes 12/18/2018
+- For PygameZero: put at the top of the file: `import pgzero`
+- For PygameZero: put at the end of the file: `pgzero.go()`
 
-### Meeting details
-In Thonny:
-1. Click the Tools menu for "Manage Packages"
-2. In the search box, type "pgzero" (no quotes)
-3. Click Search
-4. Click the Install button at the bottom
-5. Then click Close
+PygameZero intro: https://pygame-zero.readthedocs.io/en/stable/introduction.html
 
-Open the Terminal (from the Finder, in the Applications/Utilities folder). In the terminal, type (or cut and paste):
+PygameZero objects reference: https://pygame-zero.readthedocs.io/en/stable/builtins.html
 
-```alias pgzrun=~/.thonny/BundledPython3.6/bin/pgzrun```
+PygameZero events reference: https://pygame-zero.readthedocs.io/en/stable/hooks.html
+
+PygameZero - coming from Scratch and making Flappy Bird: https://pygame-zero.readthedocs.io/en/stable/from-scratch.html
+
+Some other fun libraries like PygameZero: https://pygame-zero.readthedocs.io/en/stable/other-libs.html
+
+Pygame reference for more complicated things: https://www.pygame.org/docs/ (but you have to watch out for how they work out with PygameZero!)
+
 
 
