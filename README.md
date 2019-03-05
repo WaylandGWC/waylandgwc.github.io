@@ -10,6 +10,7 @@ Wayland Girls Who Code
 - [Meeting 1 - October 16, 2018](2018/2018-10-16-wayland-gwc-meeting-1.pdf)
 - [Meeting 2 - October 23, 2018](2018-10-16-wayland-gwc-meeting-2.pdf)
 - [Meeting 3 - October 30, 2018](https://docs.google.com/presentation/d/1Gvh7QyDSfS1yyUyAsVlRQGqDtjgHCC3Z-UDO9kHmw6E/edit?usp=sharing)
+
 - [Meeting 4 - November 6, 2018](https://docs.google.com/presentation/d/1-eCcyKPwVNzLJ8EP7jJBfsGQALvL8IKbwD0rOo9u-0k/edit?usp=sharing)
 - [Meeting 5 - November 13, 2018](https://docs.google.com/presentation/d/1-gQdGJeshuaev_W9DK2zarQsn5WEzUsCKT_M4yekjXI/edit?usp=sharing)
 
@@ -30,4 +31,5 @@ Wayland Girls Who Code
 [Pygame reference for more complicated things](https://www.pygame.org/docs/) (but you have to watch out for how they work out with PygameZero!)
 
 
-
+### Other resources
+- [Game.py - sample game](2018/Game.py)
